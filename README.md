@@ -9,12 +9,12 @@
   <tr>
     <td>HTML</td>
     <td>CSS</td>
-    <td>Javascript</td>
+    <td>Vue.js</td>
   </tr>
    <tr>
     <td>*</td>
     <td>*</td>
-    <td>*</td>
+    <td>3.0</td>
   </tr>
   
   
