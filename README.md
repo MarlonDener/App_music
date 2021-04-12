@@ -26,8 +26,6 @@
 2) Open your folder in your editor
 3) Open in your browser
 
-![image](https://user-images.githubusercontent.com/70349830/112741210-e8786e00-8f59-11eb-9685-e1f1a5054519.png)
-
 
 Thank you so much!
 
