@@ -20,12 +20,13 @@
   
 </table>
 
-<h3>How to run the application:  </h3>
+<h3>How to run the application: </h3>
 
-1) Make sure you have a text editor
-2) Open your folder in your editor
-3) Open in your browser
-
+1) Make sure you have Vue js, if not, follow the steps - https://br.vuejs.org/v2/guide/installation.html
+2) Open your folder in CDM
+3) run CMD - npm install
+4) run CMD - npm run serve
+5) Finally open the project on your localhost
 
 Thank you so much!
 
